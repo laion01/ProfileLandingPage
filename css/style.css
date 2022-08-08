@@ -30,12 +30,12 @@ ul.icons i {
 	margin-right:5px;
 }
 a {
-	color:#f54828;
+	color:#299cff;
 }
 a:hover {
 	text-decoration:none;
 }
-::selection{background:#f54828; color:#fff;}
+::selection{background:#299cff; color:#fff;}
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	color:#444;
 	font-family:Open Sans,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -141,7 +141,7 @@ font-weight: 500;}
 	transition:all 0.2s ease-in-out;
 }
 .navbar-nav>li.active>a,.navbar-nav>li.active>a:hover,.navbar-nav>li.active>a:focus {
-	background-color:#f54828;
+	background-color:#299cff;
 	color:#fff;
 	border-radius:3px 3px 0 0 !Important;
 }
@@ -149,7 +149,7 @@ font-weight: 500;}
 	content:"";
 	width:0;
 	height:0;
-	border-bottom:6px solid #f54828;
+	border-bottom:6px solid #299cff;
 	border-right:6px solid transparent;
 	position:absolute;
 	top:0px;
@@ -162,7 +162,7 @@ font-weight: 500;}
 }
 .navbar-nav>li>a:hover,.navbar-nav>li>a:focus {
 	border-radius:3px 3px 0 0 !Important;
-	background-color:#f54828;
+	background-color:#299cff;
 	color:#fff;
 }
 .navbar-nav>li>.dropdown-menu {
@@ -205,7 +205,7 @@ font-weight: 500;}
 	background:#444 !Important;
 }
 .dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus {
-	background-color:#f54828 !Important;
+	background-color:#299cff !Important;
 	color:#fff;
 }
 .dropdown-menu>li>a:hover,.dropdown-menu>li>a {
@@ -222,7 +222,7 @@ font-weight: 500;}
 	font-weight:700;
 }
 .extra-nav-class a.dropdown-toggle {
-	background-color:#f54828 !Important;
+	background-color:#299cff !Important;
 	color:#fff !important;
 	border-radius:3px 3px 0 0 !Important;
 }
@@ -309,7 +309,7 @@ font-weight: 500;}
 	font-weight:800;
 	color:rgb(255,255,255);
 	text-decoration:none;
-	background-color:#f54828;
+	background-color:#299cff;
 	padding:10px;
 	border-width:0px;
 	border-color:rgb(255,214,88);
@@ -430,7 +430,7 @@ font-weight: 500;}
 	font-size:19px;
 }
 .car-smallcircle {
-	background:#f54828;
+	background:#299cff;
 	width:100px;
 	height:100px;
 	color:#fff;
@@ -464,7 +464,7 @@ font-weight: 500;}
 }
 .carouselText2 {
 	font-size:19px;
-	background:#f54828;
+	background:#299cff;
 	display:inline-block;
 	padding:5px 20px;
 	color:#fff;
@@ -771,7 +771,7 @@ font-weight: 500;}
 	position:relative;
 }
 .icon-box-top i:hover {
-	background-color:#f54828;
+	background-color:#299cff;
 	color:#fff;
 	 -webkit-transition:all 0.5s ease-in-out;
 	-moz-transition:all 0.5s ease-in-out;
@@ -797,7 +797,7 @@ font-weight: 500;}
 	-webkit-border-radius:95px;
 	border-radius:95px;
 	background-color:#eee;
-	color:#f54828;
+	color:#299cff;
 	text-align:center;
 	margin-bottom:5px;
 	-webkit-transition:all 0.5s ease-in-out;
@@ -807,7 +807,7 @@ font-weight: 500;}
 	transition:all 0.5s ease-in-out;
 }
 .grey-box-icon:hover .fontawesome-icon.circle-white,.grey-box-icon.active .fontawesome-icon.circle-white,.active i.fontawesome-icon {
-	background-color:#f54828;
+	background-color:#299cff;
 	color: #fff;
 }
 /*--------------------------------------------------	NICE SCROLL---------------------------------------------------*/
@@ -822,7 +822,7 @@ font-weight: 500;}
 	font-size:17px;
 }
 .home-features .icon {
-	background:#f54828;
+	background:#299cff;
 	display:inline-block;
 	text-align:center;
 	border-radius:50%;
@@ -917,10 +917,10 @@ h1.small {
 	margin-top: 0;
 }
 .colortext {
-	color:#f54828;
+	color:#299cff;
 }
 .colorbg {
-	background:#f54828;
+	background:#299cff;
 }
 .br-hr {
 	position:relative;
@@ -999,7 +999,7 @@ h1.small {
 	z-index:100;
 }
 .bgarea-semitransparent {
-	background:rgba(245,72,40,0.80) !important;
+	background:rgb(0 56 104 / 80%) !important;
 	padding:30px 0;
 }
 .bgarea h1,.bgarea h2,.bgarea h3,.bgarea h4,.bgarea h5,.bgarea,.bgarea a,.bgarea p {
@@ -1196,7 +1196,7 @@ h1.small {
 .copyright {
 	color:#fff;
 	font-size:12px;
-	background:#f54828 url(../img/foot.png) repeat-x left 1px;
+	background:#299cff url(../img/foot.png) repeat-x left 1px;
 }
 .copyright ul.footermenu li a {
 	color:#fff;
@@ -1525,7 +1525,7 @@ ul.social-icons li a:hover {
 	width:100%;
 	padding:30px 30px 15px;
 	background-color:#f6f6f6;
-	border-left:6px solid #f54828;
+	border-left:6px solid #299cff;
 }
 .bigtext {
 	font-size:24px;
@@ -1546,7 +1546,7 @@ ul.social-icons li a:hover {
 }
 .buttoncolor {
 	line-height:40px;
-	background:#f54828;
+	background:#299cff;
 	color:#fff;
 	padding:7px 20px;
 	margin-left:-3px;
@@ -1578,7 +1578,7 @@ ul.social-icons li a:hover {
 	margin-bottom:15px;
 	border-radius:0;
 	border:0;
-	border-left:8px solid #f54828;
+	border-left:8px solid #299cff;
 }
 .panel2:after {
 	z-index:-1;
@@ -1693,7 +1693,7 @@ ul.social-icons li a:hover {
 }
 .btn-default {
 	color:#fff;
-	background-color:#f54828;
+	background-color:#299cff;
 	border:0;
 }
 .btn-default:hover {
@@ -1722,7 +1722,7 @@ ul.social-icons li a:hover {
 }
 .btn-minimal:hover {
 	background:#fff;
-	color: #f54828;
+	color: #299cff;
 }
 /*--------------------------------------------------	ACCORDION---------------------------------------------------*/
 #accordion {
@@ -1755,14 +1755,14 @@ ul.social-icons li a:hover {
 	left:-1px;
 	height:48px;
 	width:48px;
-	background:#f54828 url('../img/plus.png') center center no-repeat;
+	background:#299cff url('../img/plus.png') center center no-repeat;
 	transition:all 0.17s ease-in-out;
 	-moz-transition:all 0.17s ease-in-out;
 	-webkit-transition:all 0.17s ease-in-out;
 	-o-transition:all 0.17s ease-in-out;
 }
 #accordion div.active h4:before {
-	background:#f54828 url('../img/minus.png') center center no-repeat;
+	background:#299cff url('../img/minus.png') center center no-repeat;
 }
 #accordion div p {
 	display:none;
@@ -1845,7 +1845,7 @@ ul.social-icons li a:hover {
 }
 
 .pageheader-default .semitransparentbg {
-	background:rgba(245,72,40,0.80) !important;
+	background:rgb(0 56 104 / 80%) !important;
 	padding-bottom:35px;
 	padding-top:20px;
 }
@@ -1916,7 +1916,7 @@ ul.social-icons li a:hover {
 	padding-left:15px;
 }
 .sidebar h4 {
-	color:#f54828;
+	color:#299cff;
 	font-size:19px;
 }
 .wowwidget {
@@ -1992,12 +1992,12 @@ ul.social-icons li a:hover {
 	border-color:#e5e5e5 #e5e5e5 transparent;
 	border-style:solid;
 	border-right:1px !important;
-	color: #f54828 !important;
+	color: #299cff !important;
 }
 /* =============================================================== */
 /* Blockquote================================================================ */
 blockquote {
-	border-left:5px solid #f54828;
+	border-left:5px solid #299cff;
 	padding:20px 20px 20px 30px;
 	background:#f8f8f8;
 }
@@ -2045,7 +2045,7 @@ ul#skill {
 	line-height:45px;
 }
 #skill i {
-	background:#f54828;
+	background:#299cff;
 	color:#fff;
 	margin-left:-13px;
 	margin-right:10px;
@@ -2513,7 +2513,7 @@ a.prev span,a.next span {
 	color:#fff;
 }
 .service-fancybox:hover i {
-	color:#f54828;
+	color:#299cff;
 }
 .service-fancybox:hover p {
 	-webkit-transition:none;
@@ -2524,7 +2524,7 @@ a.prev span,a.next span {
 	color:#fff;
 }
 .service-fancybox:hover {
-	background:#f54828;
+	background:#299cff;
 }
 .service-fancybox h3 {
 	font-size:16px;
@@ -2544,14 +2544,14 @@ a.prev span,a.next span {
 	font-size:60px;
 }
 .service-fancybox.featured {
-	background:#f54828;
+	background:#299cff;
 	color:#fff;
 }
 .service-fancybox.featured h3 {
 	color:#fff;
 }
 .service-fancybox.featured .circleicon i {
-	color:#f54828;
+	color:#299cff;
 }
 .service-fancybox.featured:hover .circleicon i {
 	color:#666;
@@ -2564,7 +2564,7 @@ a.prev span,a.next span {
 	color:#fff;
 }
 .service-fancybox.black .circleicon i {
-	color:#f54828;
+	color:#299cff;
 }
 .service-fancybox.black:hover .circleicon i {
 	color: #444;
@@ -2665,7 +2665,7 @@ a.prev span,a.next span {
 	-webkit-font-smoothing:antialiased;
 	position:absolute;
 	color:#fff;
-	background:#f54828;
+	background:#299cff;
 	border-radius:50%;
 	box-shadow:0 0 0 8px #ececec;
 	text-align:center;
@@ -2735,7 +2735,7 @@ a.prev span,a.next span {
 }
 /* Isotope Transitions------------------------------- */
 .services i {
-	color:#f54828;
+	color:#299cff;
 	font-size: 30px;
 }
 
@@ -3029,8 +3029,8 @@ span.meta {
 	color:#444;
 }
 .pagination>.active>a,.pagination>.active>span,.pagination>.active>a:hover,.pagination>.active>span:hover,.pagination>.active>a:focus,.pagination>.active>span:focus {
-	background-color:#f54828;
-	border-color:#f54828;
+	background-color:#299cff;
+	border-color:#299cff;
 }
 .comments .smalltitle span {
 	font-size:18px;
@@ -3042,7 +3042,7 @@ span.meta {
 /*================================================== LANDING PAGE ===============================================*/
 .landingpage-button {
 	background:#fff;
-	color:#f54828;
+	color:#299cff;
 	width:260px;
 	padding:0px 20px;
 	border-bottom:3px solid;	
@@ -3050,18 +3050,18 @@ span.meta {
 .landingpage-button span {
 	width:50px;
 	margin-left:10px;
-	color:#f54828;
+	color:#299cff;
 	position:relative;
 	top:-18px;
 }
 .landingpage-button strong {
 	margin-left:34px;
 	font-size:24px;
-	color:#f54828;
+	color:#299cff;
 }
 .landingpage-button i {
 	padding-right:5px;
-	color:#f54828;
+	color:#299cff;
 	position:relative;
 	top:10px;
 }
@@ -8594,13 +8594,13 @@ body {
 	font-weight:300;
 }
 .active-header {
-		background:#f54828;
+		background:#299cff;
 	background-repeat:no-repeat;
 	background-position:right 50%;
 	color:#fff;
 }
 .active-header:hover {
-	background:#f54828;
+	background:#299cff;
 	color:#fff;
 	background-repeat:no-repeat;
 	background-position:right 50%;
@@ -9513,7 +9513,7 @@ ul.longarrowlist li:before {
 	
 	text-transform:uppercase;
 	color:#fff;
-	background:#f54828;
+	background:#299cff;
 	  -webkit-box-sizing: content-box;
      -moz-box-sizing: content-box;
           box-sizing: content-box;
